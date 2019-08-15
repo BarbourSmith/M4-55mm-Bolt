@@ -122,8 +122,8 @@
                     "BOMitem": {
                         "BOMitemName": "M4 Bolt 55mm",
                         "numberNeeded": 1,
-                        "costUSD": 0,
-                        "source": "www.example.com",
+                        "costUSD": 0.3316,
+                        "source": "https://www.mcmaster.com/91290a187",
                         "totalNeeded": 0
                     }
                 },
