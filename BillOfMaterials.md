@@ -2,4 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
-|Total: |0|$0.00| |
+|M4 Bolt 55mm|1|$0.00|www.example.com|
+|Total: |1|$0.00| |
